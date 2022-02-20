@@ -1,5 +1,7 @@
 ## Who I am
-I'm Matt, a 23 year old JavaScript developer based in London, UK. I have over 3 years of professional experience as a developer, currently working at [Mindera UK](https://mindera.com) and have been focused on web development for over 5 years. I specialise in front-end development and have a passion for ensuring that [accessibility best practices](https://www.w3.org/standards/webdesign/accessibility) are in place whenever possible. You can reach me on Twitter [@RealMattOwen](https://twitter.com/RealMattOwen)
+I'm Matt, a 23 year old JavaScript developer based in London, UK. I have over 3 years of professional experience as a developer, currently working at [Mindera UK](https://mindera.com) and have been focused on web development for over 5 years. I specialise in front-end development and have a passion for ensuring that [accessibility best practices](https://www.w3.org/standards/webdesign/accessibility) are in place whenever possible. I'm also very passionate about helping and teaching others that are interested in code in any way that I can, as part of this over the past 5 years I've been helping people in online [Discord](https://discord.com/) and [Gitter](https://gitter.im/) communities with any code questions and problems that they have had.
+
+You can find me on Twitter [@RealMattOwen](https://twitter.com/RealMattOwen)
 
 ## What I do
 Put simply, I work to create accessible and performant web applications. Some of the tech I use to help meet those goals:
